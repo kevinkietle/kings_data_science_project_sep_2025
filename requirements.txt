@@ -1,0 +1,7 @@
+adjustText
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+statsmodels
