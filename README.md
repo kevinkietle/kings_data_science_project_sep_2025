@@ -6,7 +6,7 @@ This project was developed as part of the application process for the Associate 
 
 ## Project Structure
 
-dev/
+project-work/
     api_data_files/ # Raw data fetched from external APIs
     outputs/ # Processed data and results
     scripts/ # Python scripts for data processing and analysis
@@ -23,10 +23,10 @@ dev/
 
 ## Installation
 
-1. Switch to the `dev` branch:
+1. Switch to the `project-work` branch:
 
    ```bash
-   git checkout dev
+   git checkout project-work
 
 2. Clone the repository:
 
