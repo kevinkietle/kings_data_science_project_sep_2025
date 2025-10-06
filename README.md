@@ -6,13 +6,13 @@ This project was developed as part of the application process for the Associate 
 
 ## Project Structure
 
-project-work/
-    api_data_files/ # Raw data fetched from external APIs
-    outputs/ # Processed data and results
-    scripts/ # Python scripts for data processing and analysis
-    utils.py # Utility functions, e.g., calculate_age
-    LICENSE # Project license
-    README.md # Project documentation
+**project-work/**
+  - `api_data_files/` – Raw data fetched from external APIs
+  - `outputs/` – Processed data and results
+  - `scripts/` – Python scripts for data processing and analysis
+  - `utils.py` – Utility functions, e.g., `calculate_age`
+  - `LICENSE` – Project license
+  - `README.md` – Project documentation
 
 ## Key Features
 
