@@ -16,10 +16,11 @@ This project was developed as part of the application process for the Associate 
 
 ## Key Features
 
-- **Data Collection**: Aggregated and cleaned international player data from various sources.
-- **Age Calculation**: Implemented a utility function to calculate player ages based on birthdates.
-- **Data Analysis**: Performed exploratory data analysis to identify potential scouting candidates.
-- **Recommendation Engine**: Developed a scoring system to prioritize players for scouting.
+- **Data Cleaning**: Imputed data in for missing rows, standardized names across datasets.
+- **International League Competitive Analysis**: Analyzed the differences in competition level between the 4 international leagues and their placement of players to the NBA.
+- **Feature Analysis of Players that Made the NBA**: Identify what statistics are most correlated to a player being able to make the jump to the NBA and what the thresholds are.
+- **Feature Analysis of Players Succeeding in the NBA***: Of players that made the jump, identify the statistics most correlated to a high internal box plus minus in the NBA.
+- **Recommendations**: Based on the features and criteria determined in the previous two steps, recommend players for the Kings to scout this year (in the case of this dataset, 2021).
 
 ## Installation
 
@@ -42,7 +43,7 @@ This project was developed as part of the application process for the Associate 
 
 ## Final Product
 
-- Full report of takeaways and recommendations: [Insert link here](#)
+- Full report of takeaways and recommendations: [Google Slides presentation](https://docs.google.com/presentation/d/1wlgfWBWqhY9dA--wCEzXJo4hEZS-RlKArJCIiB_j2D8/edit?usp=sharing)
 
 ## Contact
 
